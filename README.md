@@ -38,3 +38,6 @@ Put the downloaded .exe file in the repository and run it. Now you can start usi
 `.open database.sqlite3`  
 `select * from users`  
 `.schema users`  
+
+For more info see this tutorial:  
+https://dev.to/nedsoft/getting-started-with-sequelize-and-postgres-emp
